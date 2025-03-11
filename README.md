@@ -1,12 +1,12 @@
-# Employability Prediction  
+## Employability Prediction  
 
 This project uses a **Machine Learning model** to predict whether an individual is **Employable** or **Less Employable** based on their skills and attributes. It provides an easy-to-use **Gradio interface** for quick assessments.
 
 ## Features  
-- Accepts ratings (1-5) for multiple employability factors.  
-- Uses a **Logistic Regression model** for better accuracy.  
-- Provides a **user-friendly Gradio interface**.  
-- Easily **deployable on Hugging Face Spaces**.  
+-> Accepts ratings (1-5) for multiple employability factors.  
+-> Uses a **Logistic Regression model** for better accuracy.  
+-> Provides a **user-friendly Gradio interface**.  
+-> Easily **deployable on Hugging Face Spaces**.  
 
 ## How It Works  
 1. Enter ratings **(1-5)** for various attributes such as communication skills, confidence, and mental alertness.  
